@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Program program = new Program();
+            program.Run();
+
+
+
+            //hier komt mijn code
         }
-    }
-}
+
+
