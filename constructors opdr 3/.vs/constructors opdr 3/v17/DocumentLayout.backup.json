@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Othman\\Documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93393F6D-0A78-4FDB-844C-C15D48221762}|constructors opdr 3\\constructors opdr 3.csproj|c:\\users\\othman\\documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93393F6D-0A78-4FDB-844C-C15D48221762}|constructors opdr 3\\constructors opdr 3.csproj|solutionrelative:constructors opdr 3\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93393F6D-0A78-4FDB-844C-C15D48221762}|constructors opdr 3\\constructors opdr 3.csproj|c:\\users\\othman\\documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\quizvragenantwoord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93393F6D-0A78-4FDB-844C-C15D48221762}|constructors opdr 3\\constructors opdr 3.csproj|solutionrelative:constructors opdr 3\\quizvragenantwoord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93393F6D-0A78-4FDB-844C-C15D48221762}|constructors opdr 3\\constructors opdr 3.csproj|c:\\users\\othman\\documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\quizvragen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93393F6D-0A78-4FDB-844C-C15D48221762}|constructors opdr 3\\constructors opdr 3.csproj|solutionrelative:constructors opdr 3\\quizvragen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93393F6D-0A78-4FDB-844C-C15D48221762}|constructors opdr 3\\constructors opdr 3.csproj|c:\\users\\othman\\documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93393F6D-0A78-4FDB-844C-C15D48221762}|constructors opdr 3\\constructors opdr 3.csproj|solutionrelative:constructors opdr 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quizvragen.cs",
+              "DocumentMoniker": "C:\\Users\\Othman\\Documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\quizvragen.cs",
+              "RelativeDocumentMoniker": "constructors opdr 3\\quizvragen.cs",
+              "ToolTip": "C:\\Users\\Othman\\Documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\quizvragen.cs",
+              "RelativeToolTip": "constructors opdr 3\\quizvragen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:41:20.019Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quizvragenantwoord.cs",
+              "DocumentMoniker": "C:\\Users\\Othman\\Documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\quizvragenantwoord.cs",
+              "RelativeDocumentMoniker": "constructors opdr 3\\quizvragenantwoord.cs",
+              "ToolTip": "C:\\Users\\Othman\\Documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\quizvragenantwoord.cs",
+              "RelativeToolTip": "constructors opdr 3\\quizvragenantwoord.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:41:24.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Othman\\Documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\quiz.cs",
+              "RelativeDocumentMoniker": "constructors opdr 3\\quiz.cs",
+              "ToolTip": "C:\\Users\\Othman\\Documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\quiz.cs",
+              "RelativeToolTip": "constructors opdr 3\\quiz.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:41:23.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Othman\\Documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\Program.cs",
+              "RelativeDocumentMoniker": "constructors opdr 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Othman\\Documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog-cs2 opdrachten\\constructors opdr 3\\constructors opdr 3\\Program.cs",
+              "RelativeToolTip": "constructors opdr 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:34:40.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

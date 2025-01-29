@@ -1,0 +1,5 @@
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\Rijschool\Rijschool\obj\Debug\net8.0\Rijschool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\Rijschool\Rijschool\obj\Debug\net8.0\Rijschool.AssemblyInfoInputs.cache
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\Rijschool\Rijschool\obj\Debug\net8.0\Rijschool.AssemblyInfo.cs
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\Rijschool\Rijschool\obj\Debug\net8.0\Rijschool.csproj.CoreCompileInputs.cache
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\Rijschool\Rijschool\obj\Debug\net8.0\Rijschool.sourcelink.json

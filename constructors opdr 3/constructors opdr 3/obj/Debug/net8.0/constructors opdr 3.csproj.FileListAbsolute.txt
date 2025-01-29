@@ -1,0 +1,15 @@
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\constructors opdr 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\constructors opdr 3.AssemblyInfoInputs.cache
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\constructors opdr 3.AssemblyInfo.cs
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\constructors opdr 3.csproj.CoreCompileInputs.cache
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\constructors opdr 3.sourcelink.json
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\bin\Debug\net8.0\constructors opdr 3.exe
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\bin\Debug\net8.0\constructors opdr 3.deps.json
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\bin\Debug\net8.0\constructors opdr 3.runtimeconfig.json
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\bin\Debug\net8.0\constructors opdr 3.dll
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\bin\Debug\net8.0\constructors opdr 3.pdb
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\constructors opdr 3.dll
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\refint\constructors opdr 3.dll
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\constructors opdr 3.pdb
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\constructors opdr 3.genruntimeconfig.cache
+C:\Users\Othman\Documents\ma\bewijzenmap\periode 1.2\prog\m2prog-cs2 opdrachten\constructors opdr 3\constructors opdr 3\obj\Debug\net8.0\ref\constructors opdr 3.dll
